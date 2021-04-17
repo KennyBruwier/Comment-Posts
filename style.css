@@ -1,0 +1,25 @@
+#guestbook{
+    text-align: center  !important;
+}
+
+.container-fluid {
+    background-color: yellow;
+}
+
+* {
+    padding: 10px;
+    margin: 10px;
+}
+
+.comment {
+    width: 80%; 
+    display: block;
+    
+}
+#guestbook {
+    background-color: lightgray;
+}
+
+.card-header {
+    background-color: ivory;
+}
